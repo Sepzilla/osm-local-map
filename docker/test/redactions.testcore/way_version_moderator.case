@@ -1,0 +1,19 @@
+# way/version call for a moderator should return everything.
+# NOTE: OAuth stuff generated with http://lti.tools/oauth/
+Request-Method: GET
+Request-URI: /api/0.6/way/1/2?show_redactions=true
+Http-Host: cgimap.example.com
+Date: 2017-02-03T16:31:00Z
+Http-Authorization: Bearer 1yi2RI2WhIVMLoLaDLg0nrPJPU4WQSIX4Hh_jxfRRxI
+---
+Status: 200 OK
+Content-Type: application/xml; charset=utf-8
+!Content-Disposition:
+---
+<?xml version="1.0"?>
+<osm version="0.6" generator="***" copyright="***" attribution="***" license="***">
+  <way id="1" version="2" changeset="2" user="foo" uid="1" visible="true"
+       timestamp="2017-01-21T18:03:00Z">
+    <nd ref="1"/>
+  </way>
+</osm>

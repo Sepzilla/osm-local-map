@@ -1,0 +1,9 @@
+{
+	"name": "OpenStreetMap",
+	"short_name": "OSM",
+	"icons": [{"src":"/assets/android-chrome-36x36-6d14dae8b6e4d6fae6d7d81573eaaf7e5451d8bc463a069e6a5431ccaf30697a.png","sizes":"36x36","type":"image/png","density":0.75},{"src":"/assets/android-chrome-48x48-36e47bf58a6f6a379542fe49395199e5c50e6c33f41227dafeac7aa04e18a09a.png","sizes":"48x48","type":"image/png","density":1.0},{"src":"/assets/android-chrome-72x72-03e2df5b7901e40d20e8d0e9f95708090dd4f540d6995c74a7b683d607994d3c.png","sizes":"72x72","type":"image/png","density":1.5},{"src":"/assets/android-chrome-96x96-af207a534541ef2f3d534e5ba08fe549a27703ed93c13fe3975586a33a44bd6b.png","sizes":"96x96","type":"image/png","density":2.0},{"src":"/assets/android-chrome-144x144-988f82c4038a4b442ea5661a941b97e4f3991184cfef84be3759e994595b582b.png","sizes":"144x144","type":"image/png","density":3.0},{"src":"/assets/android-chrome-192x192-6217c940eb228ea7ca9ec81953bde338babfd62d07d15e5a986d0b2861cd09db.png","sizes":"192x192","type":"image/png","density":4.0},{"src":"/images/../images/osm_logo.svg","sizes":"any","type":"image/svg+xml"}],
+	"start_url": "/",
+	"theme_color": "#7ebc6f",
+	"background_color": "#fff",
+	"display": "minimal-ui"
+}
